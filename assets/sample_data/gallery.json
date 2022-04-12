@@ -1,0 +1,41 @@
+{
+  "painters": [
+    {
+      "id": 1,
+      "painterImg": "assets/images/painter_img/dali.jpg",
+      "name": "Salvador Dali",
+      "description": "surrealist",
+      "arts": [
+        {
+          "artImg": "assets/images/art_img/persistence_of_memory.jpg",
+          "title": "The Persistence of Memory",
+          "year": "1931",
+          "location": "Museum of Modern Art, New York City",
+          "owner": "Museum of Modern Art"
+        },
+        {
+          "artImg": "assets/images/art_img/metamorphosis_of_narcissus.jpg",
+          "title": "Metamorphosis of Narcissus",
+          "year": "1937",
+          "location": "Tate Modern, London",
+          "owner": "Tate Modern"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "painterImg": "assets/images/painter_img/monet.jpg",
+      "name": "Cloude Monet",
+      "description": "impressionist",
+      "arts": [
+        {
+          "artImg": "assets/images/art_img/persistence_of_memory.jpg",
+          "title": "The Persistence of Memory",
+          "year": "1931",
+          "location": "Museum of Modern Art, New York City",
+          "owner": "Museum of Modern Art"
+        }
+      ]
+    }
+  ]
+}

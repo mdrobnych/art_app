@@ -1,0 +1,19 @@
+{
+  "arts": [
+    {
+      "artImage": "assets/images/ground_img/mona-lisa.jpg",
+      "author": "Leonardo da Vinci",
+      "quote": "Art is never finished, only abandoned."
+    },
+    {
+      "artImage": "assets/images/ground_img/burning_giraffe.jpg",
+      "author": "Salvador Dali",
+      "quote": "Have no fear of perfection - you'll never reach it."
+    },
+    {
+      "artImage": "assets/images/ground_img/Water-Lilies-and-Japanese-Bridge.jpg",
+      "author": "Claude Monet",
+      "quote": "The richness I achieve comes from nature, the source of my inspiration."
+    }
+  ]
+}
